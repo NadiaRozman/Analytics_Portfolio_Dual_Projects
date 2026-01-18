@@ -596,4 +596,4 @@ Project_2_Sentiment_Analysis/
 
 ---
 
-**Part of:** [Analytics Portfolio - Dual Projects](../README.md)
+**Part of:** [Analytics Portfolio - Dual Projects](https://github.com/NadiaRozman/Analytics_Portfolio_Dual_Projects)
