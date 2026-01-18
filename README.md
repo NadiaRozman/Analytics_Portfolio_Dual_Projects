@@ -34,7 +34,7 @@ This repository contains two independent analytics projects across different dom
 
 **Tools:** Python, pandas, matplotlib, seaborn, Tableau Public
 
-[→ View Project 1 Details](project-1-employee-attrition/)
+[→ View Project 1 Details](Project_1_Employee_Attrition)
 
 ---
 
@@ -59,7 +59,7 @@ This repository contains two independent analytics projects across different dom
 
 **Tools:** Python, NLTK, scikit-learn, pandas, matplotlib, WordCloud
 
-[→ View Project 2 Details](project-2-sentiment-analysis/)
+[→ View Project 2 Details](Project_2_Sentiment_Analysis)
 
 ---
 
